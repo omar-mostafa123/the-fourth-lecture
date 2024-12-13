@@ -1,1 +1,1 @@
-# the-fourth-leture
+# the-fourth-lecture
